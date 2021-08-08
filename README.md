@@ -7,10 +7,9 @@ In this project, I am helping develop an app, "PlanMytrip". This app would be us
 Software: 
 - Python 3.7
 - Anaconda 4.10.3
-- Google API 
+- Google API 3.45.7
 
 # Results
-From the analysis, I was able to create a database that displays the world map with city markers in real time. These markers would show weather information about the city the're booking the hotel at, the actual hotel name and the country. Using the app, clients can get an idea of where they are going to stay before they even start booking the trip. I was also able to create markers that can give clients an idea of the distance between trips (like google maps). If a client is driving to their destination, they would know how long the trip would take. an example is shown here [image]. 
-
+From the analysis, I was able to create a database that displays the world map with city markers in real time. These markers would show weather information about the city the're booking the hotel at, the actual hotel name and the country. Using the app, clients can get an idea of where they are going to stay before they even start booking the trip. I was also able to create markers that can give clients an idea of the distance between trips (like google maps). If a client is driving to their destination, they would know how long the trip would take. an example is shown here [image](https://github.com/somtoesomeju/World_Weather_Analysis/blob/main/Vacation_itinerary/WeatherPy_travel_map.png)
 
 
